@@ -1,0 +1,41 @@
+<!DOCTYPE html> <!-- Tells browser what document type to expect -->
+
+<html>
+
+  <head> <!-- Contains all non-visual elements -->
+
+    <title>This goes on web browser tab.</title>
+
+  </head>
+
+  <body> <!-- Contains all visually-structured elements, main content of page -->
+
+    Hello World. <!-- This is just a line of text -->
+    
+    <h1>This is a Heading</h1>
+
+    <h6>There are 6 of these headings</h6>
+
+    <p>This is a paragraph.</p> <!-- Brpwsers add a blank line before and after this -->
+    
+    <img alt="" class="" src="" height="" width="">
+    
+    <ol>
+      <li value="5">Coffee</li>
+      <li>Tea</li>
+      <li>Milk</li>
+    </ol>
+
+    <ul>
+      <li>Coffee</li>
+      <li>Tea</li>
+      <li>Milk</li>
+    </ul>
+    
+    <p class="quote">"To be, or not to be"</p>
+    
+    <a href="https://www.google.com">This is a link to google.com</a> <!-- Used to create a hyperlink -->
+
+  </body>
+
+</html>
