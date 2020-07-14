@@ -12,6 +12,8 @@
 
     Hello World. <!-- This is just a line of text -->
     
+    This<br>or<br/>That <!-- Breaks the text and starts on next line -->
+    
     <h1>This is a Heading</h1>
 
     <h6>There are 6 of these headings</h6>
